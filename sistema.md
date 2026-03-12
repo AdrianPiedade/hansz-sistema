@@ -129,4 +129,4 @@ As perícias representam a história do personagem e não evoluem com o nível.
 * **Patrulheiro:** Dançarino dos Ventos, Inventor, Alquimista, Soldado, Domador de Feras.
 * **Mago:** Cronomancer, Necromancer, Ilusionista, Arcanista, Lâmina Arcana.
 * **Elementarista:** Dobra de Fogo, Dobra de Água, Dobra de Ar, Dobra de Terra, Dobra de Éter.
-* **Bruxo:** Pacto Demoníaco, Pacto Cósmico, Pacto Feérico, Pacto Mundano, Pacto Divino. | Pacto Cósmico | Pacto Feérico | Pacto Mundano | Pacto Divino
+* **Bruxo:** Pacto Demoníaco, Pacto Cósmico, Pacto Feérico, Pacto Mundano, Pacto Divino.
