@@ -116,17 +116,17 @@ As perícias representam a história do personagem e não evoluem com o nível.
 
 ## 10. Raças (Estética e Slots 7 e 8)
 
-* **Raças Grandes:** Orcs | Draconatos | Nerunes (Arcturianos)
-* **Raças Médias:** Humanos | Elfos | Pliries (Pleiadianos)
-* **Raças Pequenas:** Gnomos | Fadas | Greylins (Greys)
+* **Raças Grandes:** Orcs, Draconatos, Nerunes (Arcturianos).
+* **Raças Médias:** Humanos, Elfos, Pliries (Pleiadianos).
+* **Raças Pequenas:** Gnomos, Fadas, Greylins (Greys).
 
 ## 11. Classes e Sub-classes (Ditam Slots 1 a 6)
 
-* **Guerreiro:** Espadachim | Arqueiro de Guerra | Duelista | Samurai | Cavaleiro
-* **Bárbaro:** Berserker | Titã Balístico | Fanático | Boxeador | O Colosso
-* **Paladino:** Juramento da Luz | Juramento das Trevas | Juramento de Sangue | Juramento de Fé | Renegado
-* **Ladino:** Ladrão | Assassino | Ninja | Acrobata | Atirador de Elite
-* **Patrulheiro:** Dançarino dos Ventos | Inventor | Alquimista | Soldado | Domador de Feras
-* **Mago:** Cronomancer | Necromancer | Ilusionista | Arcanista | Lâmina Arcana
-* **Elementarista:** Dobra de Fogo | Dobra de Água | Dobra de Ar | Dobra de Terra | Dobra de Éter
-* **Bruxo:** Pacto Demoníaco | Pacto Cósmico | Pacto Feérico | Pacto Mundano | Pacto Divino
+* **Guerreiro:** Espadachim, Arqueiro de Guerra, Duelista, Samurai, Cavaleiro.
+* **Bárbaro:** Berserker, Titã Balístico, Fanático, Boxeador, O Colosso.
+* **Paladino:** Juramento da Luz, Juramento das Trevas, Juramento de Sangue, Juramento de Fé, Renegado.
+* **Ladino:** Ladrão, Assassino, Ninja, Acrobata, Atirador de Elite.
+* **Patrulheiro:** Dançarino dos Ventos, Inventor, Alquimista, Soldado, Domador de Feras.
+* **Mago:** Cronomancer, Necromancer, Ilusionista, Arcanista, Lâmina Arcana.
+* **Elementarista:** Dobra de Fogo, Dobra de Água, Dobra de Ar, Dobra de Terra, Dobra de Éter.
+* **Bruxo:** Pacto Demoníaco, Pacto Cósmico, Pacto Feérico, Pacto Mundano, Pacto Divino. | Pacto Cósmico | Pacto Feérico | Pacto Mundano | Pacto Divino
