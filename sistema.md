@@ -4,7 +4,7 @@
 
 A Cúpula opera em um formato de Campanha Viva focado em uma Guilda de Mercenários. O universo mistura fantasia medieval clássica com elementos de ficção científica (Sci-Fantasy).
 
-* **Estrutura de Jogo:** A campanha é 100% online e assíncrona. Não há um grupo fixo ou horário engessado. Os jogadores interagem livremente por texto ou voz na base da guilda (fazendo Roleplay) e formam grupos rotativos sempre que uma nova missão é postada.
+* **Estrutura de Jogo:** A campanha é híbrida e assíncrona. Não há um grupo fixo ou horário engessado. Os jogadores interagem livremente por texto ou voz na base da guilda (fazendo Roleplay) e formam grupos rotativos sempre que uma nova missão é postada.
 * **Progressão:** O avanço de nível é puramente baseado em Pontos de Experiência (XP) adquiridos ao completar contratos. O ganho de poder também está diretamente atrelado ao acúmulo de moedas e à coleta de *loot* para a melhoria de equipamentos.
 
 ## 2. Ambientação e Mundo
@@ -18,7 +18,7 @@ O mundo do jogo se passa em um vasto Arquipélago composto por ilhas de todos os
 
 O sistema utiliza uma matemática clara de porcentagens (base 100), reduções fixas de dano e um sistema de **Tiers (Escalões)** que dita o poder do personagem conforme ele evolui. A liberdade de construção de personagem é total, sem amarras numéricas atreladas a classes ou raças na hora de distribuir os pontos.
 
-* **Criação (Nível 1):** O jogador recebe 30 Pontos para distribuir livremente entre as características.
+* **Criação (Nível 1):** O jogador recebe 50 Pontos para distribuir livremente entre as características.
 * **Evolução:** A cada novo nível alcançado, o jogador ganha +5 Pontos adicionais para distribuir onde quiser.
 
 ### O Sistema de Multiplicadores de Tier
@@ -40,19 +40,6 @@ Para garantir um crescimento balanceado do Nível 1 ao 20, o jogo é dividido em
 * **Armadura Mágica:** Cada 1 ponto investido concede -1 de Redução de Dano Fixo contra ataques mágicos.
 * **Foco:** Cada 1 ponto concede +1% de chance de aplicar debuffs (efeitos de controle) em inimigos. 
 * **Tenacidade:** Cada 1 ponto concede +1% de chance de resistir a debuffs ou controles de grupo inimigos.
-
-### A Economia de Pontos
-
-* **Vida:** Cada 1 ponto investido concede +2 Pontos de Vida (PV) Máximos por nível alcançado.
-* **Força:** Cada 1 ponto investido concede +1 de Dano Físico Fixo, somado nas habilidades corporais e ataques de armas físicas.
-* **Arcana:** Cada 1 ponto investido concede +1 de Dano Mágico Fixo, somado em magias e ataques de armamentos arcanos/tecnológicos.
-* **Velocidade:** Cada 2 pontos investidos concedem +1 metro no deslocamento base do personagem e aumentam o alcance de habilidades de movimento (como *dashes* ou teleportes).
-* **Chance Crítica:** Cada 1 ponto investido concede +1% de chance de Acerto Crítico (um acerto crítico dobra o dano total final do ataque).
-* **Chance de Esquiva:** Cada 1 ponto investido concede +1% de chance de Esquiva (uma esquiva bem-sucedida ignora o golpe completamente, resultando em zero dano).
-* **Resistência Física:** Cada 1 ponto investido concede -1 de Redução de Dano Fixo contra qualquer ataque de origem física.
-* **Resistência Mágica:** Cada 1 ponto investido concede -1 de Redução de Dano Fixo contra qualquer ataque de origem mágica.
-* **Foco:** Cada 1 ponto investido concede +2% de chance de aplicar *debuffs* (efeitos negativos) em inimigos OU +1 de potência fixa em *buffs* e curas lançados em aliados.
-* **Tenacidade:** Cada 1 ponto investido concede +2% de chance de resistir a *debuffs* ou controles de grupo jogados contra você.
 
 ## 4. A Resolução de Combate (A Regra do d100)
 
@@ -216,11 +203,13 @@ O Arquipélago abriga nove espécies principais unidas sob a Cúpula, categoriza
 
 ## 11. Classes e Sub-classes (Ditam Slots 1 a 6)
 
-* **Guerreiro:** Espadachim, Arqueiro de Guerra, Duelista, Samurai, Cavaleiro.
-* **Bárbaro:** Berserker, Titã Balístico, Fanático, Boxeador, O Colosso.
+* **Guerreiro:** Samuirai, Arqueiro de Guerra, Duelista, Inquisidor, Cavaleiro.
+* **Bárbaro:** Berserker, Colosso, Fanático, Boxeador, Arauto.
 * **Paladino:** Juramento da Luz, Juramento das Trevas, Juramento de Sangue, Juramento de Fé, Renegado.
-* **Ladino:** Ladrão, Assassino, Ninja, Acrobata, Atirador de Elite.
-* **Patrulheiro:** Dançarino dos Ventos, Inventor, Alquimista, Soldado, Domador de Feras.
-* **Mago:** Cronomancer, Necromancer, Ilusionista, Arcanista, Lâmina Arcana.
+* **Ladino:** Ladrão, Assassino, Sombra, Acrobata, Atirador de Elite.
+* **Patrulheiro:** Dançarino dos Ventos, Ninja, Alquimista, Curandeiro, Domador de Feras.
+* **Mago:** Cronomancer, Necromancer, Ilusionista, Evocador, Lâmina Arcana.
 * **Elementarista:** Dobra de Fogo, Dobra de Água, Dobra de Ar, Dobra de Terra, Dobra de Éter.
-* **Bruxo:** Pacto Demoníaco, Pacto Cósmico, Pacto Feérico, Pacto Mundano, Pacto Divino.
+* **Bruxo:** Pacto Demoníaco, Pacto Cósmico, Pacto Feérico, Pacto Divino, Pacto de Sangue.
+* **Clérigo:** Domínio da Vida, Domínio da Guerra, Domínio da Punição, Domínio da Proteção, Domínio da Profecia
+* **Engenheiro:** Artilheiro, Mecha, Médico de Combate, Demolidor, Tecnomante 
