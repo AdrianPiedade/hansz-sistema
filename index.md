@@ -1,6 +1,6 @@
-# Guilda de Mercenários: Sci-Fantasy RPG
+# A Cúpula RPG - ScyFantasy
 
-Bem-vindo à documentação oficial do nosso sistema de RPG de mesa 100% online e assíncrono. Este sistema foi desenhado para suportar múltiplos jogadores em um formato de Campanha Viva, misturando fantasia medieval clássica com tecnologia alienígena em um vasto arquipélago.
+Bem-vindo à documentação oficial do nosso sistema de RPG de mesa híbrido assíncrono. Este sistema foi desenhado para suportar múltiplos jogadores em um formato de Campanha Viva, misturando fantasia medieval clássica com tecnologia alienígena em um vasto arquipélago.
 
 ## Sumário Oficial
 

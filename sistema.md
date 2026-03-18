@@ -2,7 +2,7 @@
 
 ## 1. Visão Geral do Sistema
 
-O jogo opera em um formato de Campanha Viva focado em uma Guilda de Mercenários. O universo mistura fantasia medieval clássica com elementos de ficção científica (Sci-Fantasy).
+A Cúpula opera em um formato de Campanha Viva focado em uma Guilda de Mercenários. O universo mistura fantasia medieval clássica com elementos de ficção científica (Sci-Fantasy).
 
 * **Estrutura de Jogo:** A campanha é 100% online e assíncrona. Não há um grupo fixo ou horário engessado. Os jogadores interagem livremente por texto ou voz na base da guilda (fazendo Roleplay) e formam grupos rotativos sempre que uma nova missão é postada.
 * **Progressão:** O avanço de nível é puramente baseado em Pontos de Experiência (XP) adquiridos ao completar contratos. O ganho de poder também está diretamente atrelado ao acúmulo de moedas e à coleta de *loot* para a melhoria de equipamentos.

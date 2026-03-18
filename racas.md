@@ -2,7 +2,7 @@
 
 ## A Influência da Raça no Jogo
 
-No nosso sistema, a escolha da sua raça não prende você a modificadores numéricos de atributos ou limitações de classe. Um Orc pode ser um Mago brilhante e uma Fada pode ser uma Bárbaro letal. A sua raça dita exclusivamente duas coisas vitais para o seu personagem: a sua **Aparência** e as suas **Habilidades Inatas (Slots 7 e 8)**.
+Em A Cúpula, a escolha da sua raça não prende você a modificadores numéricos de atributos ou limitações de classe. Um Orc pode ser um Mago brilhante e uma Fada pode ser uma Bárbaro letal. A sua raça dita exclusivamente duas coisas vitais para o seu personagem: a sua **Aparência** e as suas **Habilidades Inatas (Slots 7 e 8)**.
 
 ### Liberdade Estética e Aparência
 A aparência principal da raça dita os traços fundamentais do seu mercenário (como as escamas de um Draconato ou os olhos profundos de um Greylin), mas a customização é inteiramente livre. Cor de pele, estilo e cor de cabelo, formato dos olhos, marcas de nascença, cicatrizes e o porte físico (seja um Elfo absurdamente musculoso ou um Orc esguio) ficam totalmente a critério da sua imaginação. Você tem liberdade absoluta para desenhar o personagem da forma que quiser, desde que a biologia central da raça seja respeitada.
