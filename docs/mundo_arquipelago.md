@@ -2,7 +2,7 @@
 
 O planeta de Astal nem sempre foi o que é hoje. Durante eras, o arquipélago Marshall viveu sob a luz de um único sol dourado, abrigando impérios de fantasia medieval clássica onde Humanos, Elfos, Orcs e outras raças nativas travavam guerras por território e recursos mágicos limitados. No entanto, os céus mudaram, e com eles, a própria fundação da realidade.
 
-![Gemini_Generated_Image_2lfjft2lfjft2lfj.png](../../assets/images/Gemini_Generated_Image_2lfjft2lfjft2lfj.png)
+![Gemini_Generated_Image_2lfjft2lfjft2lfj.png](../assets/images/Gemini_Generated_Image_2lfjft2lfjft2lfj.png)
 ## O Grande Cataclismo e a Escuridão Eterna
 
 Há alguns séculos, um evento cósmico de proporções inimagináveis assolou o sistema planetário. Uma anomalia gravitacional massiva arrastou um segundo sol para a órbita do planeta, transformando-o em um sistema binário instável. O choque gravitacional deslocou a órbita do planeta e travou a sua rotação. 
@@ -17,14 +17,14 @@ O mesmo cataclismo que condenou o sistema solar do arquipélago foi sentido nos 
 * **A Luz dos Pliries:** Buscando ativamente um refúgio para curar as feridas do universo, os Pliries pousaram suavemente. Eles trouxeram suas tecnologias de manipulação de energia e cura, iluminando a escuridão com seus próprios corpos luminescentes e empatia biológica.
 * **A Furtividade dos Greylins:** Observadores silenciosos, os diminutos Greylins tiveram suas naves de patrulha desativadas pela anomalia. Eles observaram das sombras por um tempo, até decidirem intervir, oferecendo suas tecnologias de controle mental e distorção de gravidade para ajudar a estabilizar as marés enlouquecidas do mundo.
 
-![Gemini_Generated_Image_qms1uxqms1uxqms1.png](../../assets/images/Gemini_Generated_Image_qms1uxqms1uxqms1.png)
+![Gemini_Generated_Image_qms1uxqms1uxqms1.png](../assets/images/Gemini_Generated_Image_qms1uxqms1uxqms1.png)
 ## A Era do Éter
 
 A chegada dos forasteiros marcou o fim da era medieval e o início de uma explosão tecnológica. A tecnologia alienígena, quando combinada com a magia arcana nativa, criou o que hoje chamamos de "Tecnologia de Éter". 
 
 O arquipélago foi salvo da fome graças aos biomas sintéticos: luzes de plasma emulam a energia solar, permitindo que florestas continuem crescendo e colheitas sejam produzidas através de fotossíntese artificial. As capitais agora são iluminadas por neon mágico, enormes reatores de cristal flutuam graças aos Greylins, e ateliês caóticos de Gnomos misturam engrenagens de latão com núcleos de plasma volátil. 
 
-![Gemini_Generated_Image_n11diin11diin11d.png](../../assets/images/Gemini_Generated_Image_n11diin11diin11d.png)
+![Gemini_Generated_Image_n11diin11diin11d.png](../assets/images/Gemini_Generated_Image_n11diin11diin11d.png)
 ## A Cúpula Governante
 
 Para evitar a extinção através da guerra por essa nova tecnologia vital, as raças precisaram se unir. Os antigos reis e imperadores deram lugar a um governo centralizado conhecido como **A Cúpula**.
@@ -43,4 +43,4 @@ O vasto arquipélago é composto por inúmeras ilhotas perigosas, mas sua funda�
 6. **Draco (Os Picos da Tormenta):** Uma terra acidentada, caótica e orgulhosa. Habitada primordialmente pelos clãs de Draconatos, possui montanhas altíssimas e áreas abertas que são constantemente fustigadas por tempestades de éter. É um local perigoso, com ruínas de antigos dragões e missões de altíssimo risco.
 7. **Cygnus (Os Campos de Engenharia):** Originalmente colinas verdejantes, tornou-se o polo industrial e biotecnológico do mundo. Com uma população massiva de Gnomos trabalhando nas refinarias, a ilha é a responsável por gerar mais de 60% dos alimentos sintéticos que sustentam as populações das outras ilhas.
 
-![arquipélago_marshall.png](../../assets/images/arquip%C3%A9lago_marshall.png)
+![arquipélago_marshall.png](../assets/images/arquip%C3%A9lago_marshall.png)
