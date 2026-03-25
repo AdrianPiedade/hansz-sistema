@@ -31,7 +31,7 @@ Andando eretos e ostentando escamas imponentes, os Draconatos são humanoides qu
 **Movimentação:** 12m (8 quadrados)
 
 Os Nerunes são a mais imponente das raças alienígenas que caíram no arquipélago séculos atrás. Com um visual Arcturiano, eles são extremamente altos, esguios e possuem uma pele em tons frios que parece brilhar com uma suave energia estelar. São seres de vasto intelecto e conexão profunda com o éter e o cosmos. Suas naves caídas hoje servem como templos de conhecimento, e sua presença inspira tanto reverência quanto temor místico.
-![Aparência: Nerune](../../assets/images/Gemini_Generated_Image_1qwpsj1qwpsj1qwp.png)
+![Aparência: Nerune](../assets/images/Gemini_Generated_Image_1qwpsj1qwpsj1qwp.png)
 
 ## Raças Médias
 
