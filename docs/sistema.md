@@ -74,7 +74,7 @@ A capacidade de deslocamento de um personagem em combate é definida pelo seu po
 
 * **Deslocamento Base por Porte:**
     * **Raças Pequenas** (Gnomos, Fadas, Greylins): 6 metros por turno (4 quadrados).
-    * **Raças Médias** (Humanos, Elfos, Pliries): 9 metros por turno (6 quadrados).
+    * **Raças Médias** (Humanos, Elfos, Sintéticos): 9 metros por turno (6 quadrados).
     * **Raças Grandes** (Orcs, Draconatos, Nerunes): 12 metros por turno (8 quadrados).
 * **O Modificador de Velocidade:** Cada 2 pontos investidos em Velocidade concedem +1 metro de movimentação extra ao deslocamento base.
 
@@ -182,7 +182,7 @@ Abaixo estão as 18 perícias oficiais do sistema e o que elas cobrem dentro do 
 | **Investigação** | Busca ativa e dedução lógica. Usado para procurar pistas em uma cena de crime, encontrar gavetas com fundo falso, ler contratos procurando entrelinhas e achar itens ocultos. |
 | **Lidar com Animais** | Conexão com a fauna natural ou sintética. Usado para acalmar bestas nativas, domar montarias ou entender o comportamento de criaturas selvagens do mundo. |
 | **Medicina** | Conhecimentos práticos de primeiros socorros e anatomia. Usado para estabilizar aliados sangrando fora de combate, diagnosticar doenças ou identificar causas de morte. |
-| **Natureza** | Conhecimento sobre o meio ambiente, clima e sobrevivência. Usado para identificar plantas venenosas, prever tempestades ou entender os biomas sintéticos dos Pliries. |
+| **Natureza** | Conhecimento sobre o meio ambiente, clima e sobrevivência. Usado para identificar plantas venenosas, prever tempestades ou entender a flora adaptada por tecnologia alienígena. |
 | **Percepção** | Os seus cinco sentidos (visão, audição, faro, etc). É a perícia mais usada do jogo. Serve para ouvir passos distantes, notar inimigos escondidos ou farejar gás vazando. |
 | **Persuasão** | Convencer pessoas de forma pacífica, diplomática ou sedutora. Usado para negociar recompensas melhores, fazer amizades ou convencer NPCs a ajudarem a guilda. |
 | **Prestidigitação** | Agilidade manual e truques de mãos. Usado para bater carteiras no Eixo Mercantil, plantar evidências falsas, roubar chaves de guardas ou fazer truques de mágica. |
@@ -198,7 +198,7 @@ A biologia e a herança histórica da sua espécie fornecem talentos únicos que
 O Arquipélago abriga nove espécies principais unidas sob a Cúpula, categorizadas pelo seu porte físico:
 
 * **Raças Grandes:** Orcs (nativos vulcânicos e guerreiros rústicos), Draconatos (herdeiros orgulhosos dos antigos dragões), Nerunes (alienígenas Arcturianos altos, esguios e de vasto intelecto cósmico).
-* **Raças Médias:** Humanos (populosos, ambiciosos e dominantes do comércio), Elfos (longevos e sintonizados com as linhas de magia natural), Pliries (alienígenas Pleiadianos luminescentes focados em cura e empatia biológica).
+* **Raças Médias:** Humanos (populosos, ambiciosos e dominantes do comércio), Elfos (longevos e sintonizados com as linhas de magia natural), Sintéticos (inteligências artificiais mágicas abrigadas em corpos robóticos alienígenas).
 * **Raças Pequenas:** Gnomos (inventores supremos que misturam magia e metal), Fadas (seres feéricos erráticos e de ilusão impecável), Greylins (alienígenas clássicos do tipo "Grey", diminutos, furtivos e donos de fortes poderes mentais).
 
 ## 11. Classes e Sub-classes (Ditam Slots 1 a 6)
