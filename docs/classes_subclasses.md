@@ -144,13 +144,13 @@ Abaixo está a lista completa de sub-classes, suas respectivas Tags e um breve r
     * Suas posturas táticas permitem que ele mova aliados no grid de batalha fora do turno deles e force inimigos a recuarem.
 
 ### 3. Paladino (Mecânica: Bênção)
-* **Juramento da Luz:** `[Mágico | Alternado | Suporte | Em Área]`
+* **Bastião:** `[Mágico | Alternado | Suporte | Em Área]`
     * Gasta sua Bênção para curar ferimentos graves e limpar debuffs da equipe.
-* **Juramento de Sangue:** `[Físico | Corpo-a-corpo | DPS | Alvo Único]`
+* **Carrasco:** `[Físico | Corpo-a-corpo | DPS | Alvo Único]`
     * Queima a Bênção agressivamente para imbuir a arma com chamas sagradas, focado em purgar um único inimigo.
-* **Juramento das Trevas / Algoz:** `[Híbrido | Corpo-a-corpo | Controlador | Aura/Persistente]`
+* **Algoz:** `[Híbrido | Corpo-a-corpo | Controlador | Aura/Persistente]`
     * Usa a Bênção para corromper o solo, criando auras que desaceleram e enfraquecem inimigos.
-* **Juramento de Fé (Tanque):** `[Mágico | Corpo-a-corpo | Tanque | Alvo Único]`
+* **Guardião:** `[Mágico | Corpo-a-corpo | Tanque | Alvo Único]`
     * Converte Bênção em barreiras impenetráveis, provocando os inimigos mais fortes para si.
 * **Renegado:** `[Físico | Alternado | Assassino | Alvo Único]`
     * Paladino focado em mobilidade, usando a Bênção para saltar pelo campo e desferir golpes divinos letais nas costas do alvo.
@@ -192,39 +192,39 @@ Abaixo está a lista completa de sub-classes, suas respectivas Tags e um breve r
     * Focado em absorver vida dos inimigos e animar corpos para absorverem o dano por ele, atuando como um "Tanque" de retaguarda.
 
 ### 7. Elementarista (Mecânica: Energia Natural)
-* **Dobra de Fogo:** `[Mágico | À Distância | Assassino | Alvo Único]`
+* **Piromante:** `[Mágico | À Distância | Assassino | Alvo Único]`
     * Transforma áreas do grid em cinzas para desbloquear explosões de alvo único de alto dano crítico.
-* **Dobra de Água:** `[Mágico | Alternado | Suporte | Em Área]`
+* **Criomante:** `[Mágico | Alternado | Suporte | Em Área]`
     * Utiliza poças de água e chuva para lavar debuffs da equipe e aplicar curas massivas em área.
-* **Dobra de Terra:** `[Híbrido | Corpo-a-corpo | Tanque | Aura/Persistente]`
+* **Litomante:** `[Híbrido | Corpo-a-corpo | Tanque | Aura/Persistente]`
     * Levanta paredes de pedra para alterar o grid, criando escudos impenetráveis e aguentando dano na linha de frente.
-* **Dobra de Ar:** `[Mágico | À Distância | Controlador | Em Área]`
+* **Aeromante:** `[Mágico | À Distância | Controlador | Em Área]`
     * Manipula o clima para empurrar inimigos em abismos, desviar projéteis e controlar a gravidade.
-* **Dobra de Éter:** `[Híbrido | Corpo-a-corpo | Lutador | Alvo Único]`
+* **Monge Astral:** `[Híbrido | Corpo-a-corpo | Lutador | Alvo Único]`
     * Um monge elemental que mistura a energia sintética dos alienígenas com artes marciais para um combate fluido.
 
 ### 8. Bruxo (Mecânica: Pacto e Oferenda de Sangue)
-* **Pacto Demoníaco:** `[Híbrido | Corpo-a-corpo | Lutador | Em Área]`
+* **Simbionte Infernal:** `[Híbrido | Corpo-a-corpo | Lutador | Em Área]`
     * Sacrifica a própria vida para ganhar garras infernais e força física temporária, recuperando HP ao matar.
-* **Pacto Feérico:** `[Mágico | Alternado | Assassino | Alvo Único]`
+* **Espectro do Crepúsculo:** `[Mágico | Alternado | Assassino | Alvo Único]`
     * Paga em sangue para ficar invisível e desferir maldições mentais letais que ignoram a armadura do alvo.
-* **Pacto Cósmico:** `[Mágico | À Distância | Controlador | Aura/Persistente]`
+* **Médium do Vazio:** `[Mágico | À Distância | Controlador | Aura/Persistente]`
     * Magia baseada nos alienígenas mortos. Sacrifica a vida para criar entidades no campo de batalha.
-* **Pacto Divino:** `[Mágico | Alternado | Suporte | Alvo Único]`
+* **Parasita Sagrado:** `[Mágico | Alternado | Suporte | Alvo Único]`
     * Transfere ativamente sua própria vida para os aliados, ou drena os inimigos para curar o grupo (vampirismo).
-* **Pacto de Sangue:** `[Físico | Corpo-a-corpo | Tanque | Aura/Persistente]`
+* **Bastião de Ossos:** `[Físico | Corpo-a-corpo | Tanque | Aura/Persistente]`
     * Arranca vida de aliados e de si mesmo para criar uma armadura de ossos e sangue gigantesca, aguentando danos impossíveis.
 
 ### 9. Clérigo (Mecânica: Luz)
-* **Domínio da Vida:** `[Mágico | À Distância | Suporte | Em Área]`
+* **Bispo:** `[Mágico | À Distância | Suporte | Em Área]`
     * Gasta sua Luz finita de forma eficiente para manter todo o grupo vivo com auras contínuas de cura.
-* **Domínio da Guerra:** `[Físico | Corpo-a-corpo | Lutador | Alvo Único]`
+* **Padre/Madre:** `[Físico | Corpo-a-corpo | Lutador | Alvo Único]`
     * Um padre linha de frente que gasta Luz para garantir acertos críticos em seus ataques com maças e martelos pesados.
-* **Domínio da Punição:** `[Híbrido | Corpo-a-corpo | Assassino | Alvo Único]`
+* **Juiz:** `[Híbrido | Corpo-a-corpo | Assassino | Alvo Único]`
     * Inquisidor violento que queima grandes quantias de Luz de uma vez só para obliterar "hereges" com um único golpe radiante.
-* **Domínio da Proteção:** `[Mágico | Alternado | Tanque | Aura/Persistente]`
+* **Sentinela:** `[Mágico | Alternado | Tanque | Aura/Persistente]`
     * Gasta Luz para invocar abóbadas sagradas, criando zonas de invulnerabilidade no grid.
-* **Domínio da Profecia:** `[Mágico | À Distância | Controlador | Em Área]`
+* **Profeta:** `[Mágico | À Distância | Controlador | Em Área]`
     * Usa a Luz para cegar inimigos em área, revelar armadilhas ocultas e diminuir a Esquiva dos oponentes.
 
 ### 10. Engenheiro (Mecânica: Matéria-Prima)

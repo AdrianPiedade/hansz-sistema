@@ -203,13 +203,13 @@ O Arquipélago abriga nove espécies principais unidas sob a Cúpula, categoriza
 
 ## 11. Classes e Sub-classes (Ditam Slots 1 a 6)
 
-* **Guerreiro:** Samuirai, Arqueiro de Guerra, Duelista, Inquisidor, Cavaleiro.
+* **Guerreiro:** Samurai, Arqueiro de Guerra, Duelista, Inquisidor, Cavaleiro.
 * **Bárbaro:** Berserker, Colosso, Fanático, Boxeador, Arauto.
-* **Paladino:** Juramento da Luz, Juramento das Trevas, Juramento de Sangue, Juramento de Fé, Renegado.
+* **Paladino:** Bastião, Carrasco, Algoz, Guardião, Renegado.
 * **Ladino:** Ladrão, Assassino, Sombra, Acrobata, Atirador de Elite.
 * **Patrulheiro:** Dançarino dos Ventos, Ninja, Alquimista, Curandeiro, Domador de Feras.
 * **Mago:** Cronomancer, Necromancer, Ilusionista, Evocador, Lâmina Arcana.
-* **Elementarista:** Dobra de Fogo, Dobra de Água, Dobra de Ar, Dobra de Terra, Dobra de Éter.
-* **Bruxo:** Pacto Demoníaco, Pacto Cósmico, Pacto Feérico, Pacto Divino, Pacto de Sangue.
-* **Clérigo:** Domínio da Vida, Domínio da Guerra, Domínio da Punição, Domínio da Proteção, Domínio da Profecia
-* **Engenheiro:** Artilheiro, Mecha, Médico de Combate, Demolidor, Tecnomante 
+* **Elementarista:** Piromante, Criomante, Litomante, Aeromante, Monge Astral.
+* **Bruxo:** Simbionte Infernal, Espectro do Crepúsculo, Médium do Vazio, Parasita Sagrado, Bastião de Ossos.
+* **Clérigo:** Bispo, Padre/Madre, Juiz, Sentinela, Profeta.
+* **Engenheiro:** Artilheiro, Mecha, Médico de Combate, Demolidor, Tecnomante.
